@@ -1,0 +1,5 @@
+Poszukiwanie wszystkich wektorów i wartości własnych
+w ogólnym przypadku jest złożonym zagadnieniem,
+niemniej gdy macierz kwadratowa A ma bazę wektorów własnych
+i możemy wyróżnić co do modułu największą wartość,
+to poszukiwanie tej największej wartości jest już prostszym zadaniem.
